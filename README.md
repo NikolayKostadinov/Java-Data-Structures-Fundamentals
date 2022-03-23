@@ -9,4 +9,4 @@
 * Приоритетни опашки и реализиране на операции с тях
 * Имплементация на линейни структури от данни
 
-![Certificate]()
+![Certificate](https://github.com/NikolayKostadinov/Java-Data-Structures-Fundamentals/blob/main/Certificates/Data%20Structures%20Fundamentals%20(with%20Java)%20-%20February%202022%20-%20Certificate.jpeg)
